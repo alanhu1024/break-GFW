@@ -45,8 +45,8 @@ bash serverSpeederInstaller.sh
 ```
 安装的过程中出现以下内容时选择：
 ```
-Auto load ServerSpeeder on linux start-up?[n]:y
-Run ServerSpeeder now?[y]:y
+Auto load ServerSpeeder on linux start-up?[n]:`y`
+Run ServerSpeeder now?[y]:`y`
 ```
 其他地方按回车键就可以了。
 
@@ -58,6 +58,6 @@ rsc="1"
 advinacc="1" 
 maxmode="1" 
 ```
-rsc=“1” => RSC网卡驱动模式
-advinacc="1” => 流量方向加速
-maxmode="1”  => 最大传输模式
+* rsc=“1” => RSC网卡驱动模式
+* advinacc="1” => 流量方向加速
+* maxmode="1”  => 最大传输模式
