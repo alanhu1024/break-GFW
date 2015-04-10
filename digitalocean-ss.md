@@ -45,10 +45,10 @@ bash serverSpeederInstaller.sh
 ```
 安装的过程中出现以下内容时选择：
 ```
-Auto load ServerSpeeder on linux start-up?[n]:`y`
-Run ServerSpeeder now?[y]:`y`
+Auto load ServerSpeeder on linux start-up?[n]:y
+Run ServerSpeeder now?[y]:y
 ```
-其他地方按回车键就可以了。
+上面两个地方输入y, 其他地方按回车键就可以了。
 
 ### 优化：
 要看上1080p视频还需要优化配置
